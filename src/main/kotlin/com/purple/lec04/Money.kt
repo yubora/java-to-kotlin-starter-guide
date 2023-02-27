@@ -1,4 +1,4 @@
-package com.purple.lect04
+package com.purple.lec04
 
 data class Money(
     val amount: Long

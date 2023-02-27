@@ -1,4 +1,4 @@
-package com.purple.lect04
+package com.purple.lec04
 
 import com.lannstark.lec04.JavaMoney
 
